@@ -6,3 +6,6 @@ gitbook buildした際に消される_book内の.gitフォルダを生存させ�
 gitbook buildを行うディレクトリにalt-gitbook_build.shをコピーしてください。
 alt-gitbook_build.shを実行するだけです。
 > 後始末の際に`rm`コマンドを使用しているので適切な権限をalt-gitbook_build.shに付与してください。
+
+## 注意
+***batファイル版は動作未確認です。***
