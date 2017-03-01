@@ -1,4 +1,4 @@
-# Gitbookの_book内.gitファイル自動退避スクリプト
+# Gitbookの_book内.gitフォルダ自動退避スクリプト
 ---
 ## 効果
 gitbook buildした際に消される_book内の.gitフォルダを生存させます。
